@@ -1,2 +1,3 @@
 # Object-Oriented-Programming-
-Learning OOP
+Learning OOP with different resources and problems
+
